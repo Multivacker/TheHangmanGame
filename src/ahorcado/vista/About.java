@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author fvideau
+ * @author Comisión #60 C.F.P. n°11
  */
 public class About extends javax.swing.JFrame {
 
